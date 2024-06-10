@@ -13,7 +13,7 @@ This Azure Function application is designed to handle events related to books in
 
 - **Azure Functions**: For serverless computing and executing code in response to events.
 - **Azure Cosmos DB**: For a NoSQL database solution to store and manage book and subscriber data.
-- **C# (.NET 6)**: The programming language and framework used for developing the Azure Function.
+- **C# (.NET)**: The programming language and framework used for developing the Azure Function.
 - **Brevo API**: For sending transactional emails to subscribers.
 - **SibApiV3Sdk**: The SDK for interacting with the Brevo email API.
 
